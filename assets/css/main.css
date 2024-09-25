@@ -881,8 +881,7 @@ section,
   font-size: 25px;
   font-weight: 400;
   color: #ffffff;
-  text-shadow: 2px 2px 5px rgb(0, 0, 0, 1.5);
-  /*-webkit-text-stroke: 1px black;  Border width and color */
+  -webkit-text-stroke: 1px black; /* Border width and color */
 }
 
 .hero .btn-get-started {
