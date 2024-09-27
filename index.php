@@ -55,7 +55,7 @@
 
           <div class="col-lg-4 col-md-6 order-first order-md-last d-flex align-items-center">
             <div class="img">
-              <img src="assets/img/ceo.png" alt="" class="img-fluid">
+              <img src="assets/img/ceo.jpg" alt="" class="img-fluid">
             </div>
           </div>
 

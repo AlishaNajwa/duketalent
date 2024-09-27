@@ -15,11 +15,12 @@
               <p>Unit 02-02 level, CIMB Leadership Academy,</p>
               <p>Jalan Medini Iskandar Puteri, 79200 Johor</p>
               <p class="mt-3"><strong>Phone:</strong> <span><a href="https://api.whatsapp.com/send?phone=60196040559?text=Hello%20there!" target="_blank">+6019-6040559(Ms. Thasha)</a></span></p>
-              <p><strong>Email:</strong> <span><a href="mailto:hr@duketrainingandconsultancy.com">hr@duketrainingandconsultancy.com</a></span>
-              <p><span><a href="mailto:thasha.duke@gmail.com">thasha.duke@gmail.com</a></span></p>
+            <div class="email-container">
+              <div class="email-label"><p><strong>Email:</strong> <span><a href="mailto:hr@duketrainingandconsultancy.com">hr@duketrainingandconsultancy.com</a></span></div>
+              <div class="email"><p> <a href="mailto:thasha.duke@gmail.com">thasha.duke@gmail.com</a><p></div>  
             </div>
           </div>
-
+          </div>
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Useful Links</h4>
             <ul>
